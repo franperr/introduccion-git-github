@@ -11,6 +11,8 @@
   * La doc oficial: https://git-scm.com/book/en/v2
   * Stackexchange: http://stackoverflow.com
   * Google :-)
+  * Curso de coursera: https://datasciencespecialization.github.io/toolbox/
+
 
 ## GitHub como repositorio público de datos
   * Ejemplo de datos
