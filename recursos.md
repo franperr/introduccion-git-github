@@ -13,8 +13,11 @@
   * Google :-)
   * Curso de coursera: https://datasciencespecialization.github.io/toolbox/
 
+## Markdown
+  * Writing on GitHub: https://help.github.com/categories/writing-on-github/
+  * Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-## GitHub como repositorio público de datos
+## Ejemplo de repositorios en GitHub
   * Ejemplo de datos
     - https://github.com/openaddresses/openaddresses
     - https://github.com/unitedstates/congress-legislators
