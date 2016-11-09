@@ -13,6 +13,7 @@
   * Google :-)
   * Curso de coursera: https://datasciencespecialization.github.io/toolbox/
   * Experiencia de un estadístico: http://thestatsgeek.com/2015/05/16/a-statisticians-initial-experiences-of-gitgithub/
+  * Tutoriales de Atlassian: https://www.atlassian.com/git/tutorials/
 
 ## Markdown
   * Writing on GitHub: https://help.github.com/categories/writing-on-github/
